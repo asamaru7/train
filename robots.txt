@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+#DaumWebMasterTool:32fc9a8d414e8d772e492953db4e947eacfec72db85c074fb2fe606d7c2fa85e:0/Lzlpxp6uKIPgX3sP1bPg==
+
+Sitemap: https://train.asamaru.net/sitemap.xml
